@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvironment": true,
+   
+    "python.condaPath": "C:\\Users\\Fakhar-E-Iqbal\\anaconda3\\Scripts\\conda.exe",
+    "files.autoSave": "afterDelay"
+}
+
