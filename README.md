@@ -1,5 +1,8 @@
 # Text Model
-![text model](/images/s3.png)
+
+<img src="/images/s3.png" alt="image_model" width="900" height="500">
+
+
 # Image Model
-![page1](/images/s1.png)
-![page1](/images/s2.png)
+<img src="/images/s1.png" alt="image_model" width="900" height="500">
+<img src="/images/s2.png" alt="image_model" width="900" height="500">
